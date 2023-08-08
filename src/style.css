@@ -30,13 +30,15 @@ body
 	font-family: 'Kolbano', serif;
 }
 
-.clock::before
+.clock::after
 {
 	content: "";
 	width: 5%;
 	height: 5%;
 	border-radius: 50%;
-	background-color: #a8a8a8;
+	background-color: #aaaaaa;
+	position: absolute;
+	z-index: 4;
 }
 
 .clock>span.num
