@@ -1,3 +1,3 @@
 # Analog Clock Frontend
 
-Analog clock in Html, Css and Javascript
+Analog clock in HTML, CSS and JavaScript
